@@ -2,8 +2,8 @@
 
 # TCR Repertoire Analysis for Germline Bias Study
 This repository contains custom Python scripts used for TCR repertoire analysis in the study:
-（Contributors: Wanlu Liu and Nan Wang）
 **MHC restriction is structurally encoded by the T cell receptor germline**
+（Code contributors: Wanlu Liu and Nan Wang）
 
 ## Overview
 The analysis focuses on identifying germline-associated patterns in human TCR repertoires, including:
