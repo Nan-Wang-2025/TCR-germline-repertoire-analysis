@@ -11,7 +11,7 @@ The analysis focuses on identifying germline-associated patterns in human TCR re
 - Vα–Vβ pairing enrichment
 - Association of TCR features with HLA-A*02 status
 
-These analyses correspond to **Figure 5 and related supplementary figures14 in the manuscript.
+These analyses correspond to **Figure 5 and related supplementary figure15** in the manuscript.
 ---
 
 ## Data Description
@@ -54,7 +54,7 @@ HLA-A*02 status is defined per individual based on the presence of an A*02 allel
 
 The main analysis is implemented in Jupyter notebooks:
 
-- `code.ipynb`  
+- `huardb_TCR_germline_analysis.ipynb`  
   Core pipeline for TCR repertoire analysis and figure generation.
 Only code relevant to the analyses reported in the manuscript is included.
 
@@ -84,4 +84,4 @@ Exploratory analyses and unrelated scripts have been intentionally excluded.
 
 ## Contact
 
-For questions regarding the analysis, please contact:
+For questions regarding the analysis, please contact: nanwang1@stanford.edu
